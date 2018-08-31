@@ -13,6 +13,8 @@ Run program: ./app/shell-app
 ```
 ## Sample Output
 
+![sample output](https://github.com/smahajan07/pathPlanning-A-star/blob/master/output/sampleOutput.png)
+
 ## Performance
 
 In comparison to the pathPlanning BFS repository, this works tremendously fast. In a grid of 250px by 150 px to search for a path from (1,1) to (249,149) the total time goes down from 30sec to 4sec. Further improvements will be done. 
